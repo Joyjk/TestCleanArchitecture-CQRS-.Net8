@@ -1,0 +1,17 @@
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\bin\Debug\net8.0\Test.Infracture.deps.json
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\bin\Debug\net8.0\Test.Infracture.runtimeconfig.json
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\bin\Debug\net8.0\Test.Infracture.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\bin\Debug\net8.0\Test.Infracture.pdb
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\bin\Debug\net8.0\Test.Domain.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\bin\Debug\net8.0\Test.Domain.pdb
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.csproj.AssemblyReference.cache
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.AssemblyInfoInputs.cache
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.AssemblyInfo.cs
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.csproj.CoreCompileInputs.cache
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Inf.87FE07F8.Up2Date
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\refint\Test.Infracture.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.pdb
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.genruntimeconfig.cache
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\ref\Test.Infracture.dll

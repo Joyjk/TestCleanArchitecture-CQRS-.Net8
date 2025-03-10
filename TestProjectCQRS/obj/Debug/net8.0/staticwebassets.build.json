@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hg+UXO/jk5kKgrJQgxWnfEJNHVDnzGl+F71nHaWSrUY=",
+  "Source": "TestProjectCQRS",
+  "BasePath": "_content/TestProjectCQRS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

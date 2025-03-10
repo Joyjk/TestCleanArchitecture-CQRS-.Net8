@@ -1,0 +1,11 @@
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\bin\Debug\net8.0\Test.Domain.deps.json
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\bin\Debug\net8.0\Test.Domain.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\bin\Debug\net8.0\Test.Domain.pdb
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.AssemblyInfoInputs.cache
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.AssemblyInfo.cs
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.csproj.CoreCompileInputs.cache
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\refint\Test.Domain.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.pdb
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\ref\Test.Domain.dll
