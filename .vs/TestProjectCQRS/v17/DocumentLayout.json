@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\testprojectcqrs\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|solutionrelative:testprojectcqrs\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\testprojectcqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|solutionrelative:testprojectcqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\testprojectcqrs\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|solutionrelative:testprojectcqrs\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\test.application\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\test.application\\dependencyresolverapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\dependencyresolverapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\testprojectcqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|solutionrelative:testprojectcqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\test.application\\query\\productquery\\getproductsearchbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\query\\productquery\\getproductsearchbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\testprojectcqrs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F47791A-92C9-4757-841F-3243A5EACBF6}|TestProjectCQRS\\TestProjectCQRS.csproj|solutionrelative:testprojectcqrs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\test.application\\query\\userquery\\getuserbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4EF93D4-9C98-4270-ADFB-23C69CF6199C}|Test.Application\\Test.Application.csproj|solutionrelative:test.application\\query\\userquery\\getuserbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E0EE45C-2311-42F5-9ACB-95F552FD3283}|Test.Infracture\\Test.Infracture.csproj|c:\\users\\joy\\downloads\\testprojectcqrs\\testprojectcqrs\\test.infracture\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,50 +66,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "TestProjectCQRS\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "TestProjectCQRS\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCcAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T07:38:32.563Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetUserByNameQuery.cs",
-              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Query\\UserQuery\\GetUserByNameQuery.cs",
-              "RelativeDocumentMoniker": "Test.Application\\Query\\UserQuery\\GetUserByNameQuery.cs",
-              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Query\\UserQuery\\GetUserByNameQuery.cs",
-              "RelativeToolTip": "Test.Application\\Query\\UserQuery\\GetUserByNameQuery.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:00:52.97Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
-              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
-              "RelativeToolTip": "Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:10:07.985Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\appsettings.json",
+              "RelativeDocumentMoniker": "TestProjectCQRS\\appsettings.json",
+              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\appsettings.json",
+              "RelativeToolTip": "TestProjectCQRS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T07:54:10.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "DependencyResolverApp.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\DependencyResolverApp.cs",
+              "RelativeDocumentMoniker": "Test.Application\\DependencyResolverApp.cs",
+              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\DependencyResolverApp.cs",
+              "RelativeToolTip": "Test.Application\\DependencyResolverApp.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:26:57.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "TestProjectCQRS\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "TestProjectCQRS\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:52:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "TestProjectCQRS\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "TestProjectCQRS\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvycAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:43:53.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DeleteProductCommand.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Command\\ProductCommand\\DeleteProductCommand.cs",
               "RelativeDocumentMoniker": "Test.Application\\Command\\ProductCommand\\DeleteProductCommand.cs",
@@ -105,11 +130,12 @@
               "RelativeToolTip": "Test.Application\\Command\\ProductCommand\\DeleteProductCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwCMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:51:12.725Z"
+              "WhenOpened": "2025-03-10T08:51:12.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Infracture\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Test.Infracture\\Repository\\ProductRepository.cs",
@@ -122,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GetProductbyNameQuery.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Query\\ProductQuery\\GetProductbyNameQuery.cs",
               "RelativeDocumentMoniker": "Test.Application\\Query\\ProductQuery\\GetProductbyNameQuery.cs",
@@ -130,11 +156,12 @@
               "RelativeToolTip": "Test.Application\\Query\\ProductQuery\\GetProductbyNameQuery.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:40:46.228Z"
+              "WhenOpened": "2025-03-10T08:40:46.228Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "TestProjectCQRS\\Controllers\\UsersController.cs",
@@ -142,24 +169,51 @@
               "RelativeToolTip": "TestProjectCQRS\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:03:52.344Z"
+              "WhenOpened": "2025-03-10T08:03:52.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Test.Application\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Service\\TokenService.cs",
+              "RelativeToolTip": "Test.Application\\Service\\TokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvygAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:57:23.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
+              "RelativeToolTip": "Test.Application\\Command\\UserCommand\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:10:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Program.cs",
               "RelativeDocumentMoniker": "TestProjectCQRS\\Program.cs",
               "ToolTip": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\TestProjectCQRS\\Program.cs",
               "RelativeToolTip": "TestProjectCQRS\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T06:36:10.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "GetProductSearchByNameQuery.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Application\\Query\\ProductQuery\\GetProductSearchByNameQuery.cs",
               "RelativeDocumentMoniker": "Test.Application\\Query\\ProductQuery\\GetProductSearchByNameQuery.cs",
@@ -167,11 +221,12 @@
               "RelativeToolTip": "Test.Application\\Query\\ProductQuery\\GetProductSearchByNameQuery.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:06:45.399Z"
+              "WhenOpened": "2025-03-10T09:06:45.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Infracture\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Test.Infracture\\Repository\\UserRepository.cs",
@@ -179,11 +234,12 @@
               "RelativeToolTip": "Test.Infracture\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:00:52.986Z"
+              "WhenOpened": "2025-03-10T08:00:52.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "BaseClass.cs",
               "DocumentMoniker": "C:\\Users\\JOY\\Downloads\\TestProjectCQRS\\TestProjectCQRS\\Test.Domain\\Model\\BaseClass.cs",
               "RelativeDocumentMoniker": "Test.Domain\\Model\\BaseClass.cs",
@@ -191,7 +247,8 @@
               "RelativeToolTip": "Test.Domain\\Model\\BaseClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T06:23:10.711Z"
+              "WhenOpened": "2025-03-10T06:23:10.711Z",
+              "EditorCaption": ""
             }
           ]
         }

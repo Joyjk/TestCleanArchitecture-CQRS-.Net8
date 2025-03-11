@@ -147,3 +147,11 @@ C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\obj\Debug
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\obj\Debug\net8.0\TestProjectCQRS.pdb
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\obj\Debug\net8.0\TestProjectCQRS.genruntimeconfig.cache
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\obj\Debug\net8.0\ref\TestProjectCQRS.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\bin\Debug\net8.0\jose-jwt.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\TestProjectCQRS\obj\Debug\net8.0\TestProjectCQRS.sourcelink.json

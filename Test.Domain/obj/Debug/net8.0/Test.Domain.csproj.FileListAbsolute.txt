@@ -9,3 +9,4 @@ C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\refint\Test.Domain.dll
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.pdb
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\ref\Test.Domain.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Domain\obj\Debug\net8.0\Test.Domain.sourcelink.json

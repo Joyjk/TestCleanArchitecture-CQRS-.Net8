@@ -15,3 +15,4 @@ C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.pdb
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.genruntimeconfig.cache
 C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\ref\Test.Infracture.dll
+C:\Users\JOY\Downloads\TestProjectCQRS\TestProjectCQRS\Test.Infracture\obj\Debug\net8.0\Test.Infracture.sourcelink.json

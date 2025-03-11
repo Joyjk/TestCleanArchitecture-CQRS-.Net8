@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test.Infracture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe51a27644e12c256b8089b1d65447885ebde48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test.Infracture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test.Infracture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
